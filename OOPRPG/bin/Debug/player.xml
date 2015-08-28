@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Player>
+  <Name>Dev</Name>
+  <Strength>2</Strength>
+  <Dexterity>2</Dexterity>
+  <Constitution>2</Constitution>
+  <Cash>10010</Cash>
+  <Experience>10</Experience>
+  <Level>1</Level>
+</Player>
