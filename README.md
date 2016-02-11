@@ -22,5 +22,5 @@ A windows forms based RPG built with C#
 There's probably a ton, I'll add them as I find them. If you find any, please tell me!
 
 # Authors
-Timothy Goddard
-Jeremy Overton
+1. Timothy Goddard
+2. Jeremy Overton
