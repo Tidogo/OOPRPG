@@ -1,7 +1,7 @@
 # OOPRPG
 A windows forms based RPG built with C#
 
-# Current features
+# Features
 1. Character creation
 2. Battle system
 3. Loot system
@@ -12,12 +12,15 @@ A windows forms based RPG built with C#
 8. Leveling system with player specific stat growth
 9. Save/Load system
 
-# Upcoming Features
+# Future Features
 1. Stats/Character Info form
 2. Rest at tavern after battles to regain health
-(And more to come)
+3. Use Item in battles
+4. Stat point counter in character creation
 
-# Missing Features
-1. Use Item in battles does not work
-2. Stat point counter in character creation
-(Probably more here, I'll add them when I find them)
+# Bugs
+There's probably a ton, I'll add them as I find them. If you find any, please tell me!
+
+# Authors
+Timothy Goddard
+Jeremy Overton
