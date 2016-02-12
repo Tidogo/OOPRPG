@@ -13,10 +13,9 @@ A windows forms based RPG built with C#
 9. Save/Load system
 
 # Future Features
-1. Stats/Character Info form
-2. Rest at tavern after battles to regain health
-3. Use Item in battles
-4. Stat point counter in character creation
+1. Rest at tavern after battles to regain health
+2. Use Item in battles
+3. Stat point counter in character creation
 
 # Bugs
 There's probably a ton, I'll add them as I find them. If you find any, please tell me!
