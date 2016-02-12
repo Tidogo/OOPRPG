@@ -24,6 +24,13 @@ namespace OOPRPG
             User = p;
             InitializeComponent();
             txt_Cash.Text = User.Cash.ToString();
+            txt_hp.Text = User.Health.ToString();
+            txt_str.Text = User.Strength.ToString();
+            txt_dex.Text = User.Dexterity.ToString();
+            txt_con.Text = User.Constitution.ToString();
+            txt_crit.Text = User.Crit.ToString();
+            txt_attpow.Text = User.AttPower.ToString();
+            txt_def.Text = User.Defense.ToString();
             foreach (var i in User.Inventory)
             {
                 if (!i.Equipable)

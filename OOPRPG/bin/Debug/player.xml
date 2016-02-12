@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Player>
-  <Name>tim</Name>
-  <Strength>4</Strength>
-  <Dexterity>1</Dexterity>
-  <Constitution>1</Constitution>
+  <Name>Tim</Name>
+  <Strength>2</Strength>
+  <Dexterity>2</Dexterity>
+  <Constitution>2</Constitution>
 </Player>
